@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MomAplication</string>
+    <string name="text_for_Main_screen">Выглядеть не вкусно</string>
+    <string name="text_for_Main_screen2">Выглядеть вкусно</string>
+
+    <string name="title_activity_menu">Menu</string>
+    <string name="tab_text_1">Первая неделя</string>
+    <string name="tab_text_2">Вторая неделя</string>
+    <string name="tab_text_3">Третья неделя</string>
+    <string name="tab_text_4">Четвёртая неделя</string>
+
+    <string name="bottom_monday">Понедельник</string>
+    <string name="bottom_tuesday">Вторник</string>
+    <string name="bottom_wednesday">Среда</string>
+    <string name="bottom_thursday">Четверг</string>
+    <string name="bottom_friday">Пятница </string>
+    <string name="bottom_saturday">Суббота</string>
+    <string name="bottom_sunday">Воскресенье</string>
+
+
+
+
+</resources>
